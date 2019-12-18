@@ -1,8 +1,3 @@
-/*	Muhammad Adam bin Mohammad Aknoor	1911635
-	Muhammad Luqmanul Hakim bin Ahmad	1912531
-	Muhammad Adam Qusyairi bin Zamzury	1915917
-	Faisal Yasier bin Yusree			1917691 */
-
 
 #include <iostream>
 #include <cstdlib>
@@ -16,7 +11,7 @@
 
 using namespace std;
 
-const int N=16;
+const int N=16;//the size of the game
 
 struct player
 {
